@@ -1,12 +1,20 @@
 {
   "files": {
-    "main.css": "/site-mxq-teste/static/css/main.a2671b17.css",
-    "main.js": "/site-mxq-teste/static/js/main.0609b0f6.js",
-    "static/media/Banner1.png": "/site-mxq-teste/static/media/Banner1.e5062b07be1f51ae1e7a.png",
+    "main.css": "/site-mxq-teste/static/css/main.271f4f09.css",
+    "main.js": "/site-mxq-teste/static/js/main.02e7ed6c.js",
+    "static/media/amostra-latam.pdf": "/site-mxq-teste/static/media/amostra-latam.64c54d9dff5f3437ff06.pdf",
+    "static/media/mmr.png": "/site-mxq-teste/static/media/mmr.f8175d8a42f594e91879.png",
+    "static/media/Banner1.png": "/site-mxq-teste/static/media/Banner1.1e1b532f632efcb81d66.png",
     "static/media/Banner2.png": "/site-mxq-teste/static/media/Banner2.2ef315ce137e2b599b53.png",
     "static/media/Banner4.png": "/site-mxq-teste/static/media/Banner4.f9eca85023111006aa19.png",
+    "static/media/prices.png": "/site-mxq-teste/static/media/prices.e4925b58a72bcc01342c.png",
     "static/media/Banner5.png": "/site-mxq-teste/static/media/Banner5.79d5424e0af20c91f2be.png",
+    "static/media/1.png": "/site-mxq-teste/static/media/1.0a12a1868b74188c0670.png",
     "static/media/Banner3.png": "/site-mxq-teste/static/media/Banner3.e95580d7408af9db641d.png",
+    "static/media/5.png": "/site-mxq-teste/static/media/5.7c42b8e5093a5170adce.png",
+    "static/media/4.png": "/site-mxq-teste/static/media/4.4f2c4b1993f87254d898.png",
+    "static/media/2.png": "/site-mxq-teste/static/media/2.72b05f136e142a48c695.png",
+    "static/media/3.png": "/site-mxq-teste/static/media/3.faf6d7abd58fcc087723.png",
     "static/media/logo.png": "/site-mxq-teste/static/media/logo.23711e6890806a8d4fe2.png",
     "static/media/logo-en.png": "/site-mxq-teste/static/media/logo-en.bef7c8072cbf6efea614.png",
     "static/media/ingles.png": "/site-mxq-teste/static/media/ingles.3c2011664f54616f5c26.png",
@@ -17,11 +25,11 @@
     "static/media/slick.ttf": "/site-mxq-teste/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/site-mxq-teste/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/site-mxq-teste/index.html",
-    "main.a2671b17.css.map": "/site-mxq-teste/static/css/main.a2671b17.css.map",
-    "main.0609b0f6.js.map": "/site-mxq-teste/static/js/main.0609b0f6.js.map"
+    "main.271f4f09.css.map": "/site-mxq-teste/static/css/main.271f4f09.css.map",
+    "main.02e7ed6c.js.map": "/site-mxq-teste/static/js/main.02e7ed6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2671b17.css",
-    "static/js/main.0609b0f6.js"
+    "static/css/main.271f4f09.css",
+    "static/js/main.02e7ed6c.js"
   ]
 }
