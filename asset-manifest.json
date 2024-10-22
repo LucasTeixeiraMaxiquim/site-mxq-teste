@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/site-mxq-teste/static/css/main.271f4f09.css",
-    "main.js": "/site-mxq-teste/static/js/main.cbf004e2.js",
+    "main.css": "/site-mxq-teste/static/css/main.7d924f79.css",
+    "main.js": "/site-mxq-teste/static/js/main.8231bfda.js",
     "static/media/amostra-latam.pdf": "/site-mxq-teste/static/media/amostra-latam.64c54d9dff5f3437ff06.pdf",
     "static/media/mmr.png": "/site-mxq-teste/static/media/mmr.f8175d8a42f594e91879.png",
     "static/media/Banner1.png": "/site-mxq-teste/static/media/Banner1.1e1b532f632efcb81d66.png",
@@ -25,11 +25,11 @@
     "static/media/slick.ttf": "/site-mxq-teste/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/site-mxq-teste/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/site-mxq-teste/index.html",
-    "main.271f4f09.css.map": "/site-mxq-teste/static/css/main.271f4f09.css.map",
-    "main.cbf004e2.js.map": "/site-mxq-teste/static/js/main.cbf004e2.js.map"
+    "main.7d924f79.css.map": "/site-mxq-teste/static/css/main.7d924f79.css.map",
+    "main.8231bfda.js.map": "/site-mxq-teste/static/js/main.8231bfda.js.map"
   },
   "entrypoints": [
-    "static/css/main.271f4f09.css",
-    "static/js/main.cbf004e2.js"
+    "static/css/main.7d924f79.css",
+    "static/js/main.8231bfda.js"
   ]
 }
